@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Directory",
+        "name": "c:\\laragon\\www\\api_laravel\\app\\Models",
+        "parent_id": null,
+        "fsPath": "c:\\laragon\\www\\api_laravel\\app\\Models",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "lCdZ28tYhFvfXr0P"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\laragon\\www\\api_laravel\\app\\Http\\Controllers",
+        "parent_id": null,
+        "fsPath": "c:\\laragon\\www\\api_laravel\\app\\Http\\Controllers",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "57Fi9QaKJyTXCumd"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\laragon\\www\\api_laravel\\database\\migrations",
+        "parent_id": null,
+        "fsPath": "c:\\laragon\\www\\api_laravel\\database\\migrations",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ksCo9j1AzX0wSWNH"
+    },
+    {
+        "type": "File",
+        "name": "c:\\laragon\\www\\api_laravel\\routes\\api.php",
+        "parent_id": null,
+        "fsPath": "c:\\laragon\\www\\api_laravel\\routes\\api.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "KHahV1AFQkwBnMfi"
+    }
+]
